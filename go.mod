@@ -3,8 +3,8 @@ module moted
 go 1.26.0
 
 require (
-	cloud.google.com/go/pubsub/v2 v2.6.1
-	cloud.google.com/go/storage v1.64.0
+	cloud.google.com/go/pubsub/v2 v2.6.2
+	cloud.google.com/go/storage v1.65.0
 	github.com/bmatcuk/doublestar/v4 v4.10.0
 	github.com/fsnotify/fsnotify v1.10.1
 	github.com/k1LoW/donegroup v1.10.3
